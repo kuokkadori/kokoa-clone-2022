@@ -1,0 +1,8 @@
+.chats__column{
+    padding: 10px;
+}
+
+.chats__column:hover {
+    cursor: pointer;
+    background-color: rgba(0,0,0,0.05);
+    }
